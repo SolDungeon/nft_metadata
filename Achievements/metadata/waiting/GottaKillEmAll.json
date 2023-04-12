@@ -1,0 +1,28 @@
+{
+    "name": "Gotta Kill 'em All",
+    "symbol": "D&D",
+    "image": "https://www.arweave.net/h4YBqYkvF5bwaWxH8Hx9sG4Q8zRsY6ra-_n9WoE0xrs/GottaKillEmAll.gif",
+    "description": "Kill 10 types of enemy",
+    "external_url": "https://www.sol-dungeon.com/",
+    "seller_fee_basis_points": 0,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/h4YBqYkvF5bwaWxH8Hx9sG4Q8zRsY6ra-_n9WoE0xrs/GottaKillEmAll.gif",
+                "type": "image/gif"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/GottaKillEmAll.gif",
+                "type": "image/gif",
+                "cdn": true
+            }
+        ],
+        "category": "image",
+        "attributes": [
+            {
+                "trait_type": "Achievement",
+                "value": "Gotta Kill 'em All"
+            }
+        ]
+    }
+}

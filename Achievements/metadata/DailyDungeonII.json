@@ -1,0 +1,28 @@
+{
+    "name": "Daily Dungeon II",
+    "symbol": "D&D",
+    "image": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/DailyDungeonII.gif",
+    "description": "Enter the Dungeon on 20 consecutive days",
+    "external_url": "https://www.sol-dungeon.com/",
+    "seller_fee_basis_points": 0,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/DailyDungeonII.gif",
+                "type": "image/gif"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/DailyDungeonII.gif",
+                "type": "image/gif",
+                "cdn": true
+            }
+        ],
+        "category": "image"
+    },
+    "attributes": [
+        {
+            "trait_type": "Achievement",
+            "value": "Daily Dungeon II"
+        }
+    ]
+}

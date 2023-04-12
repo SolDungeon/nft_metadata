@@ -1,0 +1,28 @@
+{
+    "name": "Cautious",
+    "symbol": "D&D",
+    "image": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/Cautious.gif",
+    "description": "Escape level 1 10 times",
+    "external_url": "https://www.sol-dungeon.com/",
+    "seller_fee_basis_points": 0,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/Cautious.gif",
+                "type": "image/gif"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/Cautious.gif",
+                "type": "image/gif",
+                "cdn": true
+            }
+        ],
+        "category": "image"
+    },
+    "attributes": [
+        {
+            "trait_type": "Achievement",
+            "value": "Cautious"
+        }
+    ]
+}

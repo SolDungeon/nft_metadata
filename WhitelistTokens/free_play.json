@@ -1,0 +1,24 @@
+{
+  "name": "Dungeon Free Play",
+  "symbol": "D&DFP",
+  "description": "Can be used for free plays in the Dungeon.",
+  "seller_fee_basis_points": 0,
+  "image": "https://www.arweave.net/MZ63GAZR3PaFBXURQr6LQgTXW2YFzaUIuTQVnVWSt7g",
+  "external_url": "https://sol-dungeon.com/",
+  "attributes": [
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/MZ63GAZR3PaFBXURQr6LQgTXW2YFzaUIuTQVnVWSt7g",
+        "type": "image/gif"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/Free_Play.gif",
+        "type": "image/gif",
+        "cdn": true
+      }
+    ],
+    "category": "image"
+  }
+}

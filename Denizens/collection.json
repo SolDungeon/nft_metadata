@@ -1,0 +1,34 @@
+{
+  "name": "Dungeon Loot",
+  "symbol": "D&D",
+  "description": "The Dungeon is home to all sorts..",
+  "seller_fee_basis_points": 0,
+  "image": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Key_Ring.png",
+  "external_url": "https://sol-dungeon.com",
+  "attributes": [
+  ],
+  "collection": {
+     "name": "Dungeon Loot",
+     "family": "Dungeons & Degens"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Key_Ring.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Keys/Key_Ring.png",
+        "type": "image/png",
+        "cdn": true
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5YY9XMfbxRW2XAmPcupszuwmzwuvWXbEwJdnD6cU3HWy",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Yerr a Wizard Harry!",
+    "symbol": "D&D",
+    "image": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/YerrAWizardHarry.gif",
+    "description": "Defeat the Dungeon Master as the Wizard",
+    "external_url": "https://www.sol-dungeon.com/",
+    "seller_fee_basis_points": 0,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/zEoxAi--le-vSy8nCTYoDTyecVYADRKBdDvAp6S2k4E/YerrAWizardHarry.gif",
+                "type": "image/gif"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/Achievements/images/YerrAWizardHarry.gif",
+                "type": "image/gif",
+                "cdn": true
+            }
+        ],
+        "category": "image"
+    },
+    "attributes": [
+        {
+            "trait_type": "Achievement",
+            "value": "Yerr a Wizard Harry!"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+DungeonCrawler,Dungeon Crawler,Earn 100 XP
+DungeonExplorer,Dungeon Explorer,Earn 1000 XP
+DungeonParagon,Dungeon Paragon,Earn 10000 XP
+FirstBlood,First Blood,Kill your first enemy
+GottaKillEmAll,Gotta Kill 'em All,Kill 10 types of enemy
+Rookie,Rookie,Kill a tier 1 boss
+Adventurer,Adventurer,Kill a tier 1 boss 10 times
+BatOutOfHell,Bat out of Hell,Kill a tier 2 boss
+JackOfAllTrades,Jack of All Trades,Kill a tier 2 boss with all 3 classes
+LikeABoss,Like a Boss,Kill 6 different bosses
+WeCouldHaveBeenFriends,We could have been friends!,Defeat the Assassin as the Ranger
+YerrAWizardHarry,Yerr a Wizard Harry!,Defeat the Dungeon Master as the Wizard
+Scrounger,Scrounger,Accumulate 10 SOL of loot
+Scavenger,Scavenger,Accumulate 100 SOL of loot
+Unlucky,Unlucky,Suffer a 3x losing streak
+Cursed,Cursed,Suffer a 6x losing streak
+TableFlip,(╯°□°）╯︵ ┻━┻,Suffer a 10x losing streak
+Cautious,Cautious,Escape level 1 10 times
+Coward,Coward,Escape level 1 100 times
+DailyDungeonI,Daily Dungeon I,Enter the Dungeon on 5 consecutive days
+DailyDungeonII,Daily Dungeon II,Enter the Dungeon on 20 consecutive days
+DailyDungeonIII,Daily Dungeon III,Enter the Dungeon on 100 consectutive days
+OnceYouPop,Once you pop..,Play 100 rounds in a day
+Spoderman,Spoderman,Be defeated by Spiders 100 times
+YouShallNotPass,You shall not pass!,Be defeated by a Boss 50 times
+Looter,Looter,Accumulate 1000 SOL of loot
+Chicken,Chicken,Escape level 1 1000 times
+MasterOfNone,Master of None,Kill a tier 2 boss with all 3 classes 10 times
+MasterOfAll,Master of All,Kill a tier 2 boss with all 3 classes 100 times
+Fertilizer,Fertilizer,Be defeated by a Carnivine 50 times
+DMSlayer,DM Slayer,Defeat the Dungeon Master
