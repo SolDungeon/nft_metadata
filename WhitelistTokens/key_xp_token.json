@@ -3,19 +3,19 @@
   "symbol": "D&DXP",
   "description": "A basic XP token for use in Dungeons & Degens.",
   "seller_fee_basis_points": 0,
-  "image": "https://www.arweave.net/MZ63GAZR3PaFBXURQr6LQgTXW2YFzaUIuTQVnVWSt7g",
+  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_xp_token.png",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://www.arweave.net/MZ63GAZR3PaFBXURQr6LQgTXW2YFzaUIuTQVnVWSt7g",
-        "type": "image/gif"
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_xp_token.png",
+        "type": "image/png"
       },
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/Free_Play.gif",
-        "type": "image/gif",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_xp_token.png",
+        "type": "image/png",
         "cdn": true
       }
     ],

@@ -3,19 +3,19 @@
   "symbol": "D&D",
   "description": "Used to mint one (1) random Dungeon Key for free from the Dungeons & Degens Shop",
   "seller_fee_basis_points": 0,
-  "image": "https://www.arweave.net/MZ63GAZR3PaFBXURQr6LQgTXW2YFzaUIuTQVnVWSt7g",
+  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_prepaid_token.png",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://www.arweave.net/MZ63GAZR3PaFBXURQr6LQgTXW2YFzaUIuTQVnVWSt7g",
-        "type": "image/gif"
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_prepaid_token.png",
+        "type": "image/png"
       },
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/Free_Play.gif",
-        "type": "image/gif",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_prepaid_token.png",
+        "type": "image/png",
         "cdn": true
       }
     ],
