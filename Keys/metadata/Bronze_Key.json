@@ -1,21 +1,7 @@
 {
-  "description": "A simple design, but some of its original lustre still shines through.",
   "image": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Bronze_Key.gif",
+  "description": "A simple design, but some of its original lustre still shines through.",
   "external_url": "https://sol-dungeon.com",
-  "attributes": [
-    {
-      "trait_type": "Material",
-      "value": "Bronze"
-    },
-    {
-      "trait_type": "Fee Discount",
-      "value": "25%"
-    }
-  ],
-  "collection": {
-     "name": "Dungeon Keys",
-     "family": "Dungeons & Degens"
-  },
   "properties": {
     "files": [
       {
@@ -29,11 +15,15 @@
       }
     ],
     "category": "image",
-    "creators": [
-      {
-        "address": "5YY9XMfbxRW2XAmPcupszuwmzwuvWXbEwJdnD6cU3HWy",
-        "share": 100
-      }
-    ]
-  }
+  },
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Fee Discount",
+      "value": "25%"
+    }
+  ]
 }
