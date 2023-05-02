@@ -1,0 +1,41 @@
+{
+    "image": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/58.png",
+    "description": "Descendants of the Old Houses, Dungeon Masters lord over the ruins of Limare with their monstrous creations.",
+    "external_url": "https://www.sol-dungeon.com/",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/Bvy0U8B64WpyQeEM9Aooa6F691acvThDHb_cS9vz2yY/58.png",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/DungeonMasters/images/58.png",
+                "type": "image/png",
+                "cdn": true
+            }
+        ],
+        "category": "image"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Maroon"
+        },
+        {
+            "trait_type": "Robe",
+            "value": "Greed"
+        },
+        {
+            "trait_type": "Amulet",
+            "value": "Quartz Pyramid"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Staff",
+            "value": "None"
+        }
+    ]
+}
