@@ -1,21 +1,7 @@
 {
-  "description": "The key still shines as though it were newly forged.  Only a series of strangely deliberate marks down the shaft break the smooth surface.",
   "image": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Gold_Key.gif",
+  "description": "The key still shines as though it were newly forged.  Only a series of strangely deliberate marks down the shaft break the smooth surface.",
   "external_url": "https://sol-dungeon.com",
-  "attributes": [
-    {
-      "trait_type": "Material",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Fee Discount",
-      "value": "75%"
-    }
-  ],
-  "collection": {
-     "name": "Dungeon Keys",
-     "family": "Dungeons & Degens"
-  },
   "properties": {
     "files": [
       {
@@ -28,12 +14,16 @@
         "cdn": true
       }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "5YY9XMfbxRW2XAmPcupszuwmzwuvWXbEwJdnD6cU3HWy",
-        "share": 100
-      }
-    ]
-  }
+    "category": "image"
+  },
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Fee Discount",
+      "value": "75%"
+    }
+  ]
 }
