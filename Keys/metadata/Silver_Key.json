@@ -1,17 +1,7 @@
 {
-  "description": "An ornate design, with the initials H.P. engraved at the top.",
   "image": "https://www.arweave.net/QCmARPg_DqHZ2zhvn0_bVAO8ACXXfMWXk3aeYLlK8Fc/Silver_Key.gif",
+  "description": "An ornate design, with the initials H.P. engraved at the top.",
   "external_url": "https://sol-dungeon.com",
-  "attributes": [
-    {
-      "trait_type": "Material",
-      "value": "Silver"
-    },
-    {
-      "trait_type": "Fee Discount",
-      "value": "50%"
-    }
-  ],
   "properties": {
     "files": [
       {
@@ -24,6 +14,16 @@
         "cdn": true
       }
     ],
-    "category": "image",
-  }
+    "category": "image"
+  },
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Fee Discount",
+      "value": "50%"
+    }
+  ]
 }
