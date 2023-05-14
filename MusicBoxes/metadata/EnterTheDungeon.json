@@ -1,0 +1,35 @@
+{
+  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/images/EnterTheDungeon.gif",
+  "animation_url": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/music/EnterTheDungeon.mp3",
+  "description": "Delicate music boxes from the land of Limare",
+  "external_url": "https://sol-dungeon.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/images/EnterTheDungeon.gif",
+        "type": "image/gif"
+      },
+      {
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/images/EnterTheDungeon.gif",
+        "type": "image/gif",
+        "cdn": true
+      },
+      {
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/music/EnterTheDungeon.mp3",
+        "type": "audio/mp3"
+      },
+      {
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/music/EnterTheDungeon.mp3",
+        "type": "audio/mp3",
+        "cdn": true
+      }
+    ],
+    "category": "audio"
+  },
+  "attributes": [
+    {
+      "trait_type": "Track",
+      "value": "01 - Enter The Dungeon"
+    }
+  ]
+}

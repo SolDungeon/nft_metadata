@@ -1,0 +1,25 @@
+{
+  "name": "Music Boxes",
+  "symbol": "D&D",
+  "description": "Delicate music boxes from the land of Limare",
+  "seller_fee_basis_points": 0,
+  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/images/collection.gif",
+  "external_url": "https://sol-dungeon.com",
+  "attributes": [
+  ],
+  "properties": {
+    "files": [
+      {
+  	"uri": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/images/collection.gif",
+        "type": "image/gif"
+      },
+      {
+  	"uri": "https://github.com/SolDungeon/nft_metadata/raw/main/MusicBoxes/images/collection.gif",
+        "type": "image/gif",
+        "cdn": true
+      }
+    ],
+    "category": "image"
+    ]
+  }
+}
