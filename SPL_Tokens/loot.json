@@ -3,7 +3,7 @@
   "symbol": "LOOT",
   "description": "Loot found in a Dungeon",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/SPL_Tokens/key_xp_token.png",
+  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/SPL_Tokens/loot.png",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
