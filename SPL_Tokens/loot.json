@@ -1,20 +1,20 @@
 {
-  "name": "XP Token",
-  "symbol": "D&DXP",
-  "description": "A basic XP token for use in Dungeons & Degens.",
+  "name": "Dungeon Loot",
+  "symbol": "LOOT",
+  "description": "Loot found in a Dungeon",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_xp_token.png",
+  "image": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/SPL_Tokens/key_xp_token.png",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_xp_token.png",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/SPL_Tokens/loot.png",
         "type": "image/png"
       },
       {
-        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/WhitelistTokens/key_xp_token.png",
+        "uri": "https://raw.githubusercontent.com/SolDungeon/nft_metadata/main/SPL_Tokens/loot.png",
         "type": "image/png",
         "cdn": true
       }
