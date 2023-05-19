@@ -1,0 +1,29 @@
+{
+  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/TowerOfDur.png",
+  "description": "In the midst of the Whistling Peaks, snowy drifts cover the Tower of Dur",
+  "external_url": "https://sol-dungeon.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/TowerOfDur.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/TowerOfDur.png",
+        "type": "image/png",
+        "cdn": true
+      }
+    ],
+    "category": "image"
+  },
+  "attributes": [
+    {
+      "trait_type": "Painting",
+      "value": "Tower of Dur"
+    },
+    {
+    	"trait_type": "Artist",
+    	"value": "Gkbrk"
+	}
+  ]
+}

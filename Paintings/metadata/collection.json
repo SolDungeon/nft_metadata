@@ -1,0 +1,24 @@
+{
+  "name": "Paintings & Portraits",
+  "symbol": "D&D",
+  "description": "Vistas and personalities from the land of Limare",
+  "seller_fee_basis_points": 0,
+  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/collection.png",
+  "external_url": "https://sol-dungeon.com",
+  "attributes": [
+  ],
+  "properties": {
+    "files": [
+      {
+  	"uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/collection.png",
+        "type": "image/png"
+      },
+      {
+  	"uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/collection.png",
+        "type": "image/png",
+        "cdn": true
+      }
+    ],
+    "category": "image"
+  }
+}
