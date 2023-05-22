@@ -3,14 +3,14 @@
   "symbol": "D&D",
   "description": "Vistas and personalities from the land of Limare",
   "seller_fee_basis_points": 0,
-  "image": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/collection.png",
+  "image": "https://www.arweave.net/U4n_DSytOCpF11PB80JMLXSo4jlfuh_uRdhN_JzCyfc/collection.png",
   "external_url": "https://sol-dungeon.com",
   "attributes": [
   ],
   "properties": {
     "files": [
       {
-  	"uri": "https://github.com/SolDungeon/nft_metadata/raw/main/Paintings/images/collection.png",
+  	"uri": "https://www.arweave.net/U4n_DSytOCpF11PB80JMLXSo4jlfuh_uRdhN_JzCyfc/collection.png",
         "type": "image/png"
       },
       {
